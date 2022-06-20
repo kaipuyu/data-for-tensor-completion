@@ -1,2 +1,2 @@
 # data-for-tensor-completion
-Data used in 5 tensor completion examples
+The data used in the first four tensor completion examples
